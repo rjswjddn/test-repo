@@ -1,4 +1,4 @@
-print('HELLO')
+print('HI')
 #김건우 201900530 컴퓨터전자시스템공학부
 name = "김건우"
 schoolnum = "201900530"
